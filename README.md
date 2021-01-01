@@ -7,4 +7,4 @@
       
       b.2) Trying dimensionality reduction and n_cluster change (first guess through Elbow Method) to improve performance in sillhouete score;
       
- c) In progress
+ c) In progress...
