@@ -5,6 +5,6 @@
  
       b.1) Data Wrangling looking at dtypes, NaNs, corr()
       
-      b.2) Elbow Method, sillhouette score to evaluate performance
+      b.2) Trying dimensionality reduction and n_cluster change (first guess through Elbow Method) to improve performance in sillhouete score;
       
  c) In progress
